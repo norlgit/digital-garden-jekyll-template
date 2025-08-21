@@ -1,7 +1,7 @@
 ---
-title: Consistency is key
+title: Beständigkeit ist das A und O
 ---
 
-Show up. Do the work. Be consistent.
+Erscheine. Erledige die Aufgabe. Sei beständig.
 
-Then go take a look at the [[Your first note|first note]].
+Dann werfe einen Blick auf die [[your first note|erste Notiz]].

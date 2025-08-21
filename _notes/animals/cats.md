@@ -1,20 +1,20 @@
 ---
-title: A note about cats
+title: Ein Hinweis zu Katzen
 ---
 
-This is a second note with a poem with cats. 
+Dies ist eine zweite Notiz mit einem Gedicht mit Katzen.
 
-Here's a link to a note that explains why it's important to [[move your body every day]].
+Hier ist ein Link zu einer Notiz, die erklärt, warum es wichtig ist, [[move your body every day|Ihren Körper jeden Tag zu bewegen]].
 
-> I like my pillow, my fancy bed,
+> Ich mag mein Kissen, mein schickes Bett,
 >
-> My cat tree and the bathroom sink.
+> Meinen Kratzbaum und das Waschbecken im Badezimmer.
 >
-> Each has its time and fills a need,
+> Jedes hat seine Zeit und erfüllt ein Bedürfnis,
 >
-> but a box is best when I want to think.
+> aber eine Box ist am besten, wenn ich nachdenken möchte.
 
-You can create as many notes as you want.
+Sie können so viele Notizen erstellen, wie Sie möchten.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et risus at ipsum pharetra pellentesque vel in massa. Nam ornare, velit sed pulvinar gravida, justo ipsum eleifend augue, id porta velit eros vestibulum odio. Vestibulum dignissim malesuada sapien, eu volutpat lacus pellentesque et. Curabitur dui nisi, sagittis ut tempor ac, scelerisque in diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum vitae euismod ex. Morbi lacinia iaculis tempor.
 

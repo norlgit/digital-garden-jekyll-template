@@ -1,8 +1,10 @@
 ---
-title: Your first seed
+title: Deine erste Saat
 ---
-
+![Garten](assets/bild4.jpg)
 ### Willkommen!
+
+[[zweite-notiz|zur zweiten Notiz]]
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 

@@ -1,11 +1,12 @@
 ---
+title: Bewegen Sie Ihren Körper jeden Tag
 ---
 
-Move your body every day. Benefits include:
+Bewegen Sie Ihren Körper jeden Tag. Zu den Vorteilen gehören:
 
-- Improved sleep quality
-- Less risk of chronic disease
-- Increased productivity
-- Reduced anxiety
+- Verbesserte Schlafqualität
+- Geringeres Risiko für chronische Krankheiten
+- Gesteigerte Produktivität
+- Reduzierte Angst
 
-The "every day" part is important, because [[consistency]] is key to most things worth doing.
+Der "jeden Tag"-Teil ist wichtig, denn [[consistency|Beständigkeit]] ist der Schlüssel zu den meisten Dingen, die es wert sind, getan zu werden.
