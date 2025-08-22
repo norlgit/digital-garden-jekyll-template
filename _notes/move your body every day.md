@@ -2,6 +2,8 @@
 title: Bewegen Sie Ihren Körper jeden Tag
 ---
 
+![Bewegung](assets/bewegung1.webp)
+
 Bewegen Sie Ihren Körper jeden Tag. Zu den Vorteilen gehören:
 
 - Verbesserte Schlafqualität
