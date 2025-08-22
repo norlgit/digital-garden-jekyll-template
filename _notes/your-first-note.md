@@ -1,27 +1,28 @@
 ---
-title: Deine erste Saat
+title: Deine erste Aussaat
 ---
 ![Garten](assets/bild4.jpg)
 ### Willkommen!
 
 [[zweite-notiz|zur zweiten Notiz]]
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
-### Link syntax
+Dies ist Ihre erste Notiz. Sie finden sie im Verzeichnis [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes).  
 
-To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
+### Link Syntax
 
-- Using the note title: [[a note about cats]]
-- Using the note's filename: [[cats]]
-- Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
-- Using the note's filename, with a label: [[cats|link to the note about cats using the note's filename]]
+Um einen Link zu einer anderen Notiz zu erstellen, können Sie mehrere Syntaxen verwenden. Die folgenden vier verwenden die Notation "doppelte eckige Klammern" ([sehen Sie sich die Markdown-Quelldatei](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) an, um die zugrunde liegende Syntax zu sehen).
 
-You can organize notes in subdirectories and link them normally. For example, the links above all point to the `_notes/animals/cats.md` file. Here's another example: [[tigers]].
+- Verwendung des Notiztitels: [[a note about cats]]
+- Verwenden des Dateinamens der Notiz: [[cats]]
+- Verwenden des Titels der Notiz mit einer Beschriftung: [[A note about cats|link to the note about cats using the note title]]
+- Verwendung des Dateinamens der Notiz mit einer Beschriftung: [[cats|link to the note about cats using the note's filename]]
 
-Non-latin languages are supported: [[안녕하세요]]; so are accents/diacritics: [[bon appétit!]]
+Sie können Notizen in Unterverzeichnissen organisieren und normal verknüpfen. Zum Beispiel verweisen die obigen Links alle auf die `_notes/animals/cats.md` -Datei. Hier ist ein weiteres Beispiel: [[tigers]].
 
-Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the `your-first-note.md` file can be linked to with [[your first note]] or [[your-first-note]], or even [[yOuR-FiRsT Note]].
+Nicht-lateinische Sprachen werden unterstützt: [[안녕하세요]]; Das Gleiche gilt für Akzente/diakritische Zeichen: [[bon appétit!]]
+
+Bindestriche und Unterstriche in Dateinamen werden unterstützt und können in der Syntax für Klammerlinks weggelassen werden. Als Beispiel kann die `your-first-note.md`-Datei mit [[your first note]]oder [[your-first-note]] oder sogar [[yOuR-FiRsT Note]] verknüpft werden.
 
 In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
 
