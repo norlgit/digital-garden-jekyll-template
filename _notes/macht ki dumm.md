@@ -3,7 +3,7 @@ title: Macht uns KI dumm?
 ---
 ![Verdummung](assets/verdummung2.webp)  
 
-Viele Menschen in Deutschland lagern zunehmend Alltagsfragen und -probleme und somit zumindest einen Teil ihres Denkens an [generative KIs](https://de.wikipedia.org/wiki/Generatives_KI-Modell) bzw. [LLMs](https://de.wikipedia.org/wiki/Large_Language_Model) (Large Language Models) aus [Quelle?].  
+Immer mehr Menschen lagern zunehmend Alltagsaufgaben an [generative KIs](https://de.wikipedia.org/wiki/Generatives_KI-Modell) bzw. [LLMs](https://de.wikipedia.org/wiki/Large_Language_Model) (Large Language Models) aus [Quelle?].  
 _Beispiele_  
 Kann das problematisch sein und wenn ja, inwiefern?  
 
