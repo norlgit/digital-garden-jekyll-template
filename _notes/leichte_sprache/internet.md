@@ -70,13 +70,50 @@ Wie Computer sich austauschen, erklären wir mit der Geschichte von Thomas und E
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2 align="center"><img src="/assets/austausch1.png" height="218px" width="300px"></td>
-            <td align="left">Esra will das Bild einer Katze an Thomas schicken.  
-Dazu wandelt ihr Computer das Bild in ein Paket aus vielen Nullen und Einsen um.  
+            <td rowspan=2 align="center"><img src="/assets/austausch1.png" style="max-width: 100%; height: auto;"></td>
+            <td align="left">Esra will das Bild einer Katze an Thomas schicken.<br>
+Dazu wandelt ihr Computer das Bild in ein Paket aus vielen Nullen und Einsen um.<br>
 Das Paket aus Nullen und Einsen wird dann über die Netzwerke von einem zum anderen Computer geschickt.  </td>
         </tr>
     </tbody>
 </table>
 
 ---
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2 align="center"><img src="/assets/router1.png" style="max-width: 100$; height: auto;"></td>
+            <td align="left">Dazu braucht man bestimmte Geräte: <strong>Die Router.</strong><br>
+            Router sorgen dafür, dass die Pakete im Internet den richtigen Weg über die vielen Netzwerke finden.<br> 
+            Alle Netzwerke haben Router.<br> 
+            Auch die Netzwerke bei Esra und Thomas zu Hause und die größeren Netzwerke der Internetanbieter haben Router.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
