@@ -318,7 +318,7 @@ Einbrecher könnten zum Beispiel herausfinden,
 wann jemand schläft, aufwacht oder nicht zu Hause ist.
 Zu den Zeiten könnten sie dann in das Haus einbrechen.  
 
-
+weiter zum 2. Teil: [[einkaufen|Einkaufen im Internet]]
 
 
 <a href="#inhalt" class="toc-link">zurück zum Inhaltsverzeichnis</a>
