@@ -117,6 +117,47 @@ nennt man **Filterblase**.
 
 ![Tina und Bruno](/assets/bezahlen-daten4.png)
 
+Es gibt einen Algorithmus, der entscheidet,  
+welche Beiträge Tina im sozialen Netzwerk angezeigt bekommt.  
+Dieser Algorithmus rechnet aus,  
+für welche Themen Tina sich interessieren könnte.  
+Tina ruft Angebote, Texte oder Webseiten zum Klimawandel oft auf.  
+Deswegen bewertet der Algorithmus Angebote zum Klimawandel  
+als besonders wichtig für Tina.  
+So bekommt sie auch häufig diese Webseiten angezeigt.  
+Sie bekommt vielleicht zusätzlich Artikel angezeigt,  
+die andere Nutzer und Nutzerinnen in ihrem Alter interessieren.  
+Oder sie bekommt Artikel angezeigt,  
+die Menschen mit dem gleichen Geschlecht  
+oder einer ähnlichen politischen Meinung aufgerufen haben.  
+So werden andere Angebote, Texte oder Webseiten gar nicht angezeigt.  
+Tina bekommt nie die Artikel über Autos angezeigt, die Bruno liest.  
+Also sieht Tina nur bestimmte, vielleicht ähnliche Angebote,  
+Texte oder Webseiten zu einem Thema,  
+wie in einer **Filterblase**.  
+
+> **Filterblase bedeutet**:
+Nutzer und Nutzerinnen bekommen vor allem die Inhalte angezeigt,  
+die sie interessieren könnten.  
+Sie lesen dann nur etwas über bestimmte Themen  
+und sehr selten über andere.  
+
+>In unserem Beispiel bedeutet das:  
+Texte mit anderen Meinungen sieht Tina kaum.  
+
+Wenn Sie sich umfassend über ein Thema informieren wollen,  
+sollten Sie auf unterschiedlichen Webseiten lesen,  
+hören und Videos schauen.  
+Sie können auch Artikel aus unterschiedlichen Zeitungen lesen –  
+auf dem Papier oder im Internet.  
+Sie können auch verschiedene Radiosender oder Podcasts hören.  
+Podcasts sind Beiträge zum Anhören im Internet.  
+Sie können auch Nachrichten im Fernsehen oder im Internet ansehen.  
+So können Sie sich vielseitig informieren.  
+
+![öffentliche Medien](/assets/bezahlen-daten5.png)
+
+weiter zum 6. Teil: [[grosse-firmen|Große Firmen im Internet]]
 
 
 <a href="#inhalt" class="toc-link">zurück zum Inhaltsverzeichnis</a>
