@@ -115,6 +115,8 @@ als der Gewinn.
 
 ==Wichtig ist: Achten Sie auf Ihre Daten==.
 
+---
+
 weiter zum 9. Teil: [[schluss|Und zum Schluss]]
 
 

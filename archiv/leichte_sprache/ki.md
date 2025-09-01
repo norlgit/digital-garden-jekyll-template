@@ -176,10 +176,9 @@ dass die Unternehmen zu viel Macht über sie bekommen.
 
 ![Kritik an Sprachassistenten](/assets/ki4.png)
 
-weiter zum 8. Teil: [[datenschutz|Wie kann ich mich und meine Daten schützen?]]
+<a href="#inhalt" class="toc-link">zurück zum Inhaltsverzeichnis</a>  
 
 ---
 
-<a href="#inhalt" class="toc-link">zurück zum Inhaltsverzeichnis</a>
-
+weiter zum 8. Teil: [[datenschutz|Wie kann ich mich und meine Daten schützen?]]
 
