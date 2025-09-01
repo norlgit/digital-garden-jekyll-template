@@ -91,4 +91,31 @@ kann diese Person auf alle Dienste zugreifen.
 Es ist sicherer, für unterschiedliche Dienste  
 auch unterschiedliche Passwörter zu nutzen.  
 
+>**Empfehlung für die Wahl eines Passwortes:**  
+
+>• Wählen Sie ein „zufälliges“ Passwort.  
+• Verwenden Sie möglichst viele unterschiedliche Zeichen,  
+Zahlen und Sonderzeichen, gerne auch Leerzeichen.  
+• Verwenden Sie Groß- und Kleinschreibung.  
+
+>Zum Beispiel: lewg2PiG!  
+Doch wie kann man sich ein solches Passwort merken?  
+Durch den Passwortsatz:  
+„Ich esse wirklich gerne 2 Pizzen im Garten!“  
+![zwei Pizzen](/assets/datenschutz3.png)  
+
+Sie können nicht verhindern,  
+dass im Internet Daten über Sie gesammelt werden.  
+Aber Sie können versuchen,  
+darauf zu achten, wo Sie welche Information über sich angeben.  
+Geben Sie zum Beispiel nicht einfach Ihre Adresse an,  
+nur weil auf einer Webseite steht, Sie können etwas gewinnen.  
+Die Information über Sie ist für den Anbieter vielleicht wertvoller  
+als der Gewinn.  
+
+==Wichtig ist: Achten Sie auf Ihre Daten==.
+
+weiter zum 9. Teil: [[schluss|Und zum Schluss]]
+
+
 
