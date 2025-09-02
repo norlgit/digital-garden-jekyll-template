@@ -3,7 +3,7 @@ title: Ein Tutorial
 ---
 ![Garten](assets/tutorial.jpg)
 
-### Deine erste Aussaat
+### Deine erste Saat
 
 Dies ist Ihre erste Notiz. Sie finden sie im Verzeichnis [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes).  
 
