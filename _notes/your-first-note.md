@@ -71,7 +71,7 @@ If you're on a device with mouse support, try hovering your mouse on internal li
 
 Links that have been previewed will be cached to avoid redundant requests.
 
-### Images and other Markdown goodies
+### [[bilder|Images]] and other Markdown goodies
 
 Finally, because you have the full power of Markdown in this template, you can use regular Markdown syntax for various formatting options.
 

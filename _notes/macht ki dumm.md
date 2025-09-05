@@ -18,4 +18,4 @@ Kann das problematisch sein und wenn ja, inwiefern?
 
 (Notizen)  
 - 'Golden Retriever Effekt' (Die KI: 'Es gibt Golden Retriever, dann gibt es noch Golden Retriever und außerdem dann noch Golden Retriever...')
-- immer mehr Inhalte von KI erstellt, diese wiederum durch KI trainiert -> qualitative Abwärtsspirale ()
+- immer mehr Inhalte im [[internet-heft|Internet]] werden von KI erstellt, diese wiederum durch KI trainiert -> qualitative Abwärtsspirale ()

@@ -6,7 +6,7 @@ title: Internet (in einfacher Sprache)
 
 ### Heft in einfacher Sprache
 
-Ein empfehlenswertes Angebot der bpb (Bundeszentrale für politische Bildung). Für Menschen, die es einfach einfach mögen.  
+<p style="color: #0066cc;">Ein empfehlenswertes Angebot der bpb (Bundeszentrale für politische Bildung). Für Menschen, die es einfach einfach mögen.</p>
 
 - ["Internet" als Heft zum Bestellen](https://www.bpb.de/shop/materialien/einfach-politik/301611/internet/)  
 
@@ -58,3 +58,4 @@ PDF-Dateien in einfacher Sprache. Auch zum Thema digitale Welt.
 
 **Online-Leitfäden der bpb in der Reihe "_einfach_ INTERNET"**  
 [www.bpb.de/einfach-internet](https://www.bpb.de/einfach-internet)  
+(03.09.2025: Seitenaufruf gibt Fehlermeldung zurück, ABER in das Suchfeld 'einfach internet' eingeben, Lupe anklicken - mehrere Leitfäden werden angezeigt)

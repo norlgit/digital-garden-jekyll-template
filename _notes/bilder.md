@@ -10,4 +10,4 @@ Wahrscheinlich folgendermaßen:
 
 Na bitte, geht doch :-)
 
-Hier noch etwas über [[tigers|Tiger]].
+Weitere Tipps gibt es [[your-first-note|hier]].
