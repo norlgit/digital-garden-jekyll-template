@@ -22,60 +22,66 @@ Nicht-lateinische Sprachen werden unterstützt: [[안녕하세요]]; Das Gleiche
 
 Bindestriche und Unterstriche in Dateinamen werden unterstützt und können in der Syntax für Klammerlinks weggelassen werden. Als Beispiel kann die `your-first-note.md`-Datei mit [[your first note]]oder [[your-first-note]] oder sogar [[yOuR-FiRsT Note]] verknüpft werden.
 
-In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
+In allen Fällen, wenn der Link in doppelten Klammern nicht auf eine gültige Notiz zeigt, werden die doppelten Klammern trotzdem angezeigt, wie folgt: [[ Es gibt keine Notiz, die zu diesem Link passt]].
 
-Alternatively, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a Markdown link to the note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link (without the little arrow).
+Alternativ können Sie die reguläre [Markdown-Syntax](https://www.markdownguide.org/getting-started/) für Links verwenden, mit einem relativen Link zur anderen Notiz, wie folgt: [Dies ist ein Markdown-Link zu der Notiz über Katzen](/cats){: .internal-link}. Vergessen Sie nicht, die Klasse `.internal-link` zu verwenden, um sicherzustellen, dass der Link als interner Link formatiert ist (ohne den kleinen Pfeil).  
 
-Since the Web is all about HTML, you can always use plain HTML if you want, like this: <a class="internal-link" href="/cats">This is a link to the note about cats with HTML</a>.
+Da sich im Web alles um HTML dreht, können Sie immer einfaches HTML verwenden, wenn Sie möchten, wie folgt: <a class="internal-link" href="/cats">Dies ist ein Link zum Hinweis über Katzen mit HTML</a>.
 
-Of course, you can also link to external websites, like this: [this is a link to Wikipedia](https://wikipedia.org/). Again, you can use plain HTML if you prefer. Footnotes are also supported and will be treated like internal links.[^1] You can point to other notes in your footnotes.[^2]
+Natürlich können Sie auch auf externe Websites verlinken, wie z.B. hier: [Dies ist ein Link zu Wikipedia](https://de.wikipedia.org). Auch hier können Sie reines HTML verwenden, wenn Sie dies bevorzugen. Fußnoten werden ebenfalls unterstützt und wie interne Links behandelt._[^1]_ Sie können in Ihren Fußnoten auf andere Notizen verweisen._[^2]_
 
-[^1]: This is a footnote. For more information about using footnotes, check out the [Markdown Guide](https://www.markdownguide.org/extended-syntax/#footnotes).
-[^2]: This is another footnote that links to the note about [[cats]]. You may also point to [[notes that do not exist]] if you wish.
+[^1]: Dies ist eine Fußnote. Weitere Informationen zur Verwendung von Fußnoten finden Sie im [Markdown Guide](https://www.markdownguide.org/extended-syntax/#footnotes). 
+ 
+[^2]: Dies ist eine weitere Fußnote, die auf die Anmerkung über [[cats]] verweist. Du kannst auch auf [[ Notizen, die nicht existieren ]] zeigen, wenn du möchtest. 
 
-### Tweet embedding
+### Einbetten von Tweets
 
-Note: This behavior is disabled by default for privacy reasons. See "Site configuration" section below to enable it.
+Hinweis: Dieses Verhalten ist aus Datenschutzgründen standardmäßig deaktiviert. Weitere Informationen zum Aktivieren finden Sie im Abschnitt "Site-Konfiguration" weiter unten.
 
-You may include a tweet URL on its own line (like below), and it would be replaced with an official Twitter embed if the site configuration demands it.
+Sie können eine Tweet-URL in einer eigenen Zeile einfügen (wie unten), und sie wird durch eine offizielle Twitter-Einbettung ersetzt, wenn die Site-Konfiguration dies erfordert.
 
 https://twitter.com/jack/status/20
 
-### Media embedding
+### Einbetten von Medien
 
-You may embed media files within a note using HTML5 media tags. Here's an example for an audio file:
+Sie können Mediendateien mithilfe von HTML5-Medien-Tags in eine Notiz einbetten. Hier ist ein Beispiel für eine Audiodatei:
 
-"Jazzy Frenchy" by Benjamin Tissot from bensound.com
+"Jazzy Frenchy" von Benjamin Tissot von bensound.com
 <audio controls>
   <source src="{{ site.baseurl }}/assets/jazzyfrenchy.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
-### Site configuration
+### Site-Konfiguration
 
-Some behavior is configurable by tweaking the `_config.yml` file.
+Einige Verhaltensweisen können durch Anpassen der `_config.yml`-Datei konfiguriert werden.
 
-**`use_html_extension`**: if you use a static host that doesn't support URLs that don't end with `.html` (such as Neocities), try changing the `use_html_extension` value to `true` in the `_config.yml` file and restart the Jekyll server (or re-build the site). This adds a `.html` extension to note URLs and may resolve issues with links. If you're still having trouble, I recommend using Netlify to host your digital garden: it's free, easy to use, and fully supports this template's features out of the box.
+**`use_html_extension`**: Wenn Sie einen statischen Host verwenden, der keine URLs unterstützt, die nicht mit `.html` enden (z. B. Neocities), versuchen Sie, den Wert `use_html_extension` in der `_config.yml`-Datei auf `true` zu ändern und starten Sie den Jekyll-Server neu (oder erstellen Sie die Site neu). Dadurch wird eine `.html`-Erweiterung zum Merken von URLs hinzugefügt und Probleme mit Links möglicherweise behoben. Wenn Sie immer noch Probleme haben, empfehle ich Ihnen, Netlify zu verwenden, um Ihren digitalen Garten zu hosten: Es ist kostenlos, einfach zu bedienen und unterstützt die Funktionen dieser Vorlage vollständig von Haus aus.
 
-**`open_external_links_in_new_tab`**: when set to `true`, this makes external links open in new tabs. Set to `false` to open all links in the current tab.
+**`open_external_links_in_new_tab`**: Wenn es auf `true` gesetzt ist, werden externe Links in neuen Tabs geöffnet. Legen Sie diesen Wert auf `false` fest, um alle Links im aktuellen Tab zu öffnen.
 
-**`embed_tweets`**: when set to `true`, tweet URLs on their own lines will be replaced with a Twitter embed. Default value is `false`.
+**interne Links in _neuem_ Tab öffnen:**
+```<a class="internal-link" href="{{ site.baseurl }}/name/" target="_blank" rel="noopener">Name</a>```
 
-### Automatic bi-directional links
+Das funktioniert gut mit internen Seiten (auch mit Notizen?).  
 
-Notice in the "Notes mentioning this note" section that there is another note linking to this note. This is a bi-directional link, and those are automatically created when you create links to other notes.
+**`embed_tweets`**: Wenn diese Option auf `true` gesetzt ist, werden Tweet-URLs in ihren eigenen Zeilen durch eine Twitter-Einbettung ersetzt. Der Standardwert ist `false`.
 
-### Link previews
+### Automatische bidirektionale Verknüpfungen
 
-If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[a note about cats]].
+Beachten Sie den Abschnitt "Anmerkungen, in denen diese Notiz erwähnt wird". Hierbei handelt es sich um einen bidirektionalen Link, der automatisch erstellt wird, wenn Sie Links zu anderen Notizen erstellen.
 
-Links that have been previewed will be cached to avoid redundant requests.
+### Link-Vorschau
 
-### [[bilder|Images]] and other Markdown goodies
+Wenn Sie ein Gerät mit Mausunterstützung verwenden, versuchen Sie, mit der Maus über interne Links zu fahren, um eine Vorschau der Notizen anzuzeigen: [[ Eine Notiz über Katzen ]].  
 
-Finally, because you have the full power of Markdown in this template, you can use regular Markdown syntax for various formatting options.
+Links, die in der Vorschau angezeigt wurden, werden zwischengespeichert, um redundante Anforderungen zu vermeiden.
 
-Lists work as expected:
+### [[bilder|Images]] und andere Markdown-Goodies
+
+Da Sie in dieser Vorlage über die volle Leistung von Markdown verfügen, können Sie die reguläre Markdown-Syntax für verschiedene Formatierungsoptionen verwenden.
+
+Listen funktionieren wie erwartet:
 
 - List element A
 - List element B
@@ -85,21 +91,21 @@ Lists work as expected:
 2. List element
 3. List element
 
-If you'd like to quote other people, consider using quote blocks:
+Wenn Sie andere Personen zitieren möchten, sollten Sie die Verwendung von Zitatblöcken in Betracht ziehen:
 
 > Lorem ipsum dolor sit amet
 
-And of course, images look great:
+Und natürlich sehen Bilder toll aus:
 
 <img src="{{ site.baseurl }}/assets/image.jpg"/>
 
-You can also ==highlight some content== by wrapping it with `==`.
+Sie können auch ==einige Inhalte hervorheben==, indem Sie sie mit `==` umschließen.
 
-Non-latin languages are supported too: ==你好==, ==안녕하세요==, ==こんにちは==.
+Nicht-lateinische Sprachen werden ebenfalls unterstützt: ==你好==, ==안녕하세요==, ==こんにちは==.
 
-### Code syntax highlighting
+### Hervorhebung der Codesyntax
 
-You can add code blocks with full syntax color highlighting by wrapping code snippet in triple backticks and specifying the type of the code (`js`, `rb`, `sh`, etc.):
+Sie können Codeblöcke mit vollständiger Syntaxfarbhervorhebung hinzufügen, indem Sie Codeausschnitte in dreifache Backticks einschließen und den Typ des Codes angeben  (`js`, `rb`, `sh`, etc.):
 
 ```js
 // Here's a bit of JavaScript:
@@ -119,10 +125,10 @@ $ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
 ```
 
 
-### Next steps
+### Nächste Schritte
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Diese digitale Gartenvorlage ist kostenlos, quelloffen und [hier auf GitHub verfügbar](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to build your own digital garden based on this template is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+Der einfachste Weg, Ihren eigenen digitalen Garten auf der Grundlage dieser Vorlage zu erstellen, besteht darin, diese [Schritt-für-Schritt-Anleitung, die erklärt, wie Sie dies von Grund auf neu einrichten](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) zu lesen.
 
-Go forth, have fun, and learn new something every day! ✌️
+Gehen Sie los, haben Sie Spaß und lernen Sie jeden Tag etwas Neues! ✌️
